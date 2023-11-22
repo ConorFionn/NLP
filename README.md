@@ -1,2 +1,8 @@
 # NLP
-## Natural Languange Processing Projects and Practice
+## Natural Language Processing Projects and Practice
+* Word Count
+* Edit Distance
+* Word Classification
+* Sentence Probability
+* Sentiment Analysis & Condition Probability
+* Auto Correct 
